@@ -26,4 +26,4 @@ class Square extends Polygon{
         const c = this.side[2];
         const d = this.side[3];
         return (a===b && b===c && c===d);
-    }
+    }}
